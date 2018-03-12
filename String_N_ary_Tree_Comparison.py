@@ -1,6 +1,3 @@
-import itertools
-
-
 class Node:
     def __init__(self, val: object = "", child: object = []) -> object:
         self.value = val
